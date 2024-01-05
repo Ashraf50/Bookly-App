@@ -2,7 +2,7 @@
 The book "Story Building with Flutter: Implementing Clean Architecture and Dio Package for API Integration with BLoC State Management" is a comprehensive guide aimed at Flutter developers seeking to master the principles of clean architecture while utilizing the Dio package for seamless API integration and the BLoC pattern for robust state management.
 
 
-
+https://github.com/Ashraf50/Bookly-App/assets/121103042/cac2bc50-6368-43b8-b59c-7724a2400bf5
 
 <div>
 <img src="https://github.com/Ashraf50/Bookly-App/assets/121103042/a4c88a8f-0b20-415f-8576-e2d03535c396"  width="400" height="800">
